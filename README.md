@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World!!<br>Sou uma estudante de ADS apaixonada por Tecnologia e movida por desafios e Resolução de Problemas =)</p>
+<p align="left">Hello World!!<br>🎓 Estudante de Análise e Desenvolvimento de Sistemas  <br>💻 Apaixonada por tecnologia e programação  <br>🎯 Em busca de me tornar uma Desenvolvedora Full Stack</p>
 
 ###
 
@@ -46,25 +46,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=s4mnara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4mnara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=s4mnara&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4mnara&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=3&username=@s4mnara&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/s4mnara/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/s4mnara/s4mnara/output/snake.svg" alt="Snake animation" />
 
 ###
